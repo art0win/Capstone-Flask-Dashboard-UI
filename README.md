@@ -7,11 +7,11 @@
 
 **Main Features**:
 - **Visualisasi Data**
-> - Bar chart, pie chart, dan scatter plot, menggunakan library visualisasi seperti Matplotlib atau Plotly.
+> - Bar charts, pie charts, and scatter plots, using visualization libraries such as Matplotlib.
 - **Filter Dinamis**
-> - Filter aplikasi berdasarkan kategori, rating, atau jumlah download. 
+> - Filter apps based on category, rating, or number of downloads. 
 - **Pengelolaan Data**
-> - Preprocessing data dengan Pandas untuk menghasilkan insight yang relevan.
+> - Data preprocessing with Pandas to generate relevant insights.
 
 **Insights Generated**:
 1. Top 5 Categories
