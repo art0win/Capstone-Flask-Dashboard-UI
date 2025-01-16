@@ -6,11 +6,11 @@
 - Provide insights related to app category, rating, and number of downloads.
 
 **Main Features**:
-- **Visualisasi Data**
+- **Data Visualization**
 > - Bar charts, pie charts, and scatter plots, using visualization libraries such as Matplotlib.
-- **Filter Dinamis**
+- **Dynamuc Filters**
 > - Filter apps based on category, rating, or number of downloads. 
-- **Pengelolaan Data**
+- **Data Processing**
 > - Data preprocessing with Pandas to generate relevant insights.
 
 **Insights Generated**:
